@@ -1,6 +1,6 @@
 # DSL
 
-Changed!
+This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
 
 ## Development server
 
